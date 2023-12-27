@@ -22,9 +22,12 @@
     "framer-motion": "^10.16.16",
     "qrcode-with-logos": "^1.0.5",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "vite-plugin-commonjs": "^0.10.1",
+    "vite-plugin-require": "^1.1.14"
   },
   "devDependencies": {
+    "@originjs/vite-plugin-commonjs": "^1.0.3",
     "@types/react": "^18.2.43",
     "@types/react-dom": "^18.2.17",
     "@vitejs/plugin-react": "^4.2.1",
