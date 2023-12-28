@@ -23,6 +23,7 @@
     "qrcode-with-logos": "^1.0.5",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-ga4": "^2.1.0",
     "vite-plugin-commonjs": "^0.10.1",
     "vite-plugin-require": "^1.1.14"
   },
