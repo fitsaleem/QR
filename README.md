@@ -1,8 +1,26 @@
-# React + Vite
+# instantQR.net
+## Live
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+You can access the live version of instantQR.net at [instantqr.net](https://www.instantqr.net).
 
-Currently, two official plugins are available:
+## Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+instantQR.net is a web platform that allows you to create custom QR codes and personalize them by adding your logo and brand colors.
+
+## Technologies Used
+
+This project was developed using the following technologies:
+
+- React
+- Tailwind CSS
+- HTML
+- JavaScript
+
+
+## Feedback and Contributions
+
+I welcome your feedback and contributions to make instantQR.net even better. Feel free to open issues, submit pull requests, or reach out to me with your ideas and suggestions.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
